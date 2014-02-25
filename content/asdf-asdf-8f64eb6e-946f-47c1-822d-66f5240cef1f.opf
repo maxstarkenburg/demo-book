@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="uid">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:identifier id="uid">asdf-asdf-6818aa0d-b1d7-4213-94fa-aadbf884963d</dc:identifier>
+    <dc:title>asdf asdf</dc:title>
+      <date opf:event="publication" xmlns:opf="http://www.idpf.org/2007/opf">2014-2-25</date>
+</metadata>
+  <manifest><item href="asdf-asdf-552f89ce-b3e7-4ee8-b6de-b0ce3bb9a88e-nav.html" id="asdf-asdf-552f89ce-b3e7-4ee8-b6de-b0ce3bb9a88e-nav.html" media-type="application/xhtml+xml" properties="nav"/><item href="module1-b051c288-4c16-4f10-b1ef-15834720b2a9.html" id="module1-b051c288-4c16-4f10-b1ef-15834720b2a9.html" media-type="application/xhtml+xml" properties="mathml scripted"/></manifest>
+  <spine><itemref xmlns="http://www.w3.org/1999/xhtml" idref="module1-b051c288-4c16-4f10-b1ef-15834720b2a9.html"></itemref></spine>
+</package>
